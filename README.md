@@ -7,7 +7,7 @@
 
 **Domain:** PYTHON PROGRAMMING
 
-**Duration:** 5 DECEMBER 2024 to 20 JANUARY  2025
+**Duration:** 5 DECEMBER 2024 to 20 JANUARY 2025
 
 **Mentor:** N Santhosh
 
